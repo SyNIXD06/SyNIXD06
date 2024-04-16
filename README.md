@@ -1,4 +1,4 @@
-<h2 align="center">Hola, en internet me llamo SyD, tengo 23 años y soy Ing. en Computación, ahora me dedico a estudiar ciberseguridad es lo que me apasiona</h2>
+<h2 align="center">Hola, en internet me llamo @NIX, tengo 23 años y soy Ing. en Computación, ahora me dedico a estudiar ciberseguridad es lo que me apasiona</h2>
 
 ###
 
